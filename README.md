@@ -3,7 +3,7 @@
 ## Description
 This project controls system volume using hand gestures through a webcam. It uses computer vision techniques to detect hand landmarks and adjust volume based on finger distance.
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python
 - OpenCV
 - MediaPipe
